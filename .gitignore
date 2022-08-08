@@ -2,3 +2,5 @@
 package-lock.json
 default.json
 .env
+npm-debug.log
+.DS_Store
